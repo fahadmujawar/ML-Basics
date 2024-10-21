@@ -79,7 +79,6 @@ The **ML Complete Project** goes deeper into the advanced stages of machine lear
 - **Python**: Core programming language used.
 - **Pandas & NumPy**: Data manipulation and numerical operations.
 - **Scikit-learn**: Model building, evaluation, and tuning.
-- **TensorFlow & Keras**: For building and training neural networks.
-- **Matplotlib & Seaborn**: Data visualization and EDA.
+- **Matplotlib ,Seaborn & Pyplot**: Data visualization and EDA.
 
 
