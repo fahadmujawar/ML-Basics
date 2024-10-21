@@ -55,7 +55,6 @@ The **ML Complete Project** goes deeper into the advanced stages of machine lear
 
 ### 🔑 Key Features
 
-- Implementation of **Neural Networks** using **TensorFlow** and **Keras**.
 - **Model Stacking** and ensembling techniques.
 - **Data Augmentation** to handle imbalanced datasets.
 - **Advanced Visualization** for in-depth data exploration.
